@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Raphael132
-- 👀 I’m interested in Project Management and QA - Manual
-- 🌱 I’m currently learning Different kind of technology and tools to support Projects
-- 💞️ I’m looking to collaborate on coming up with new ideas in different kind of projects
+- 👋 Hi, I’m @Raphael132.
+- 👀 I’m interested in Project Management and Quality Assurance.
+- 🌱 I’m currently learning Different kinds of technology and tools to support Projects.
+- 💞️ I’m looking to collaborate on developing new ideas for different kinds in Technology innovations.
 - 📫 How to reach me (https://www.linkedin.com/in/raphael-l-875235218/)
 
 <!---
